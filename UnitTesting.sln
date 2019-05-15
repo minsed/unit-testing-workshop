@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Database", "UnitTesting.Database\UnitTesting.Database.csproj", "{21225C15-20EC-46AE-9FAA-E2060BFAACBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting.Database", "UnitTesting.Database\UnitTesting.Database.csproj", "{21225C15-20EC-46AE-9FAA-E2060BFAACBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Database.UnitTests", "UnitTesting.Database.UnitTests\UnitTesting.Database.UnitTests.csproj", "{0B4A0361-5021-4B84-9965-A7EECE1EE7B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting.Database.UnitTests", "UnitTesting.Database.UnitTests\UnitTesting.Database.UnitTests.csproj", "{0B4A0361-5021-4B84-9965-A7EECE1EE7B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Twitter", "UnitTesting.Twitter\UnitTesting.Twitter.csproj", "{C5A7340B-A9BB-41AC-8670-21BE1E314171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting.Twitter", "UnitTesting.Twitter\UnitTesting.Twitter.csproj", "{C5A7340B-A9BB-41AC-8670-21BE1E314171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Twitter.UnitTests", "UnitTesting.Twitter.UnitTests\UnitTesting.Twitter.UnitTests.csproj", "{0E2B2E84-610C-4E32-8925-7674F331033F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting.Twitter.UnitTests", "UnitTesting.Twitter.UnitTests\UnitTesting.Twitter.UnitTests.csproj", "{0E2B2E84-610C-4E32-8925-7674F331033F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Refactoring", "UnitTesting.Refactoring\UnitTesting.Refactoring.csproj", "{6BCB5075-DF4F-4845-B1FD-92BA499F6848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting.Refactoring", "UnitTesting.Refactoring\UnitTesting.Refactoring.csproj", "{6BCB5075-DF4F-4845-B1FD-92BA499F6848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Refactoring.UnitTests", "UnitTesting.Refactoring.UnitTests\UnitTesting.Refactoring.UnitTests.csproj", "{2CBBBB2D-4578-4134-9F5E-D6ECCC9C424E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting.Refactoring.UnitTests", "UnitTesting.Refactoring.UnitTests\UnitTesting.Refactoring.UnitTests.csproj", "{2CBBBB2D-4578-4134-9F5E-D6ECCC9C424E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
