@@ -3,18 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using UnitTesting.Database.Interfaces;
 
-namespace UnitTestingWorkshop.Database.Repository
+namespace UnitTesting.Database.Repository
 {
-    public class Database
+    public class ExtendedDatabase
     {
         private readonly HashSet<IPerson> _people;
 
-        public Database()
+        public ExtendedDatabase()
         {
             _people = new HashSet<IPerson>();
         }
 
-        public Database(IEnumerable<IPerson> people) : this()
+        public ExtendedDatabase(IEnumerable<IPerson> people) : this()
         {
             if (people != null)
             {
